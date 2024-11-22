@@ -1,0 +1,2 @@
+The 'main.dart' code file can be found within the 'lib' folder. This file contains the relevant code for the app. 
+
